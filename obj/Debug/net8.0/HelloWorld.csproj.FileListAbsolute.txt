@@ -27,3 +27,4 @@ c:\Users\nikol\Development\GitHub\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.
 c:\Users\nikol\Development\GitHub\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 c:\Users\nikol\Development\GitHub\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 c:\Users\nikol\Development\GitHub\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+c:\Users\userpappous\Development\Helloworld\obj\Debug\net8.0\HelloWorld.sourcelink.json
