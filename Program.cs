@@ -9,3 +9,10 @@ var names = new List <string> {"Nikolaos", "Giorgos"};
 foreach (var name in names) {
     Console.WriteLine($"The names are {name.ToUpper()} \"--\" {name.ToLower()}");
 }
+
+names.Sort();
+
+foreach (var name in names) {
+    Console.WriteLine($"The names are {name.ToUpper()} \"--\" {name.ToLower()}");
+}
+
