@@ -16,3 +16,4 @@ foreach (var name in names) {
     Console.WriteLine($"The names are {name.ToUpper()} \"--\" {name.ToLower()}");
 }
 
+// example
