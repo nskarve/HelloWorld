@@ -13,7 +13,7 @@ foreach (var name in names) {
 names.Sort();
 
 foreach (var name in names) {
-    Console.WriteLine($"The names are {name.ToUpper()} \"--\" {name.ToLower()}");
+    Console.WriteLine($"The names are {name.ToUpper()} \"++\" {name.ToLower()}");
 }
 
-// example
+// example last changes in Zografou Pitta Pappou

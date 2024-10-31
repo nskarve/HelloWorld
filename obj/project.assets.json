@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nikol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\userpappous\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\nikol\\Development\\GitHub\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\userpappous\\Development\\Helloworld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "c:\\Users\\nikol\\Development\\GitHub\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\nikol\\Development\\GitHub\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\userpappous\\Development\\Helloworld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\userpappous\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\userpappous\\Development\\Helloworld\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\userpappous\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
